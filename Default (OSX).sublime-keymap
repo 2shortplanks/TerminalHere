@@ -1,0 +1,7 @@
+[
+	// Hey, give me a terminal here!
+	{
+	   "keys": ["ctrl+alt+super+t"],
+	   "command": "terminal_here"
+	}
+]
